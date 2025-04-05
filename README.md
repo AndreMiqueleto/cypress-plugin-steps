@@ -7,7 +7,7 @@
 A small Cypress helper that adds your test steps to the timeline and error logs.
 </p>
 
-### Table of contents
+### Table of contents - test
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
 - [TypeScript support](#typescript-support)
